@@ -1,0 +1,19 @@
+# Local Environment Configuration
+.env
+
+# User Data and Generated Emails
+out_emails/
+teachers.csv
+*.pdf
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# IDE settings
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
